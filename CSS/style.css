@@ -2,3 +2,12 @@ html{background-color:rgba(221, 151, 151, 0.829);
 
 }
 ol{font-size:16px;}
+header{text-align:center ;}
+/*Se crea la clase Nombre en el archivo html y se llama en este nombre .Nombre*/
+.Nombre{font-size: 40px;
+    font-family :'Times New Roman', Times, serif ;}
+ol{color: rgb(71, 67, 67);}
+/*Editar parrafo de perfil*/
+p{color: rgb(71, 67, 67);
+text-align: justify;}
+
