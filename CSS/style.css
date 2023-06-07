@@ -10,4 +10,6 @@ ol{color: rgb(71, 67, 67);}
 /*Editar parrafo de perfil*/
 p{color: rgb(71, 67, 67);
 text-align: justify;}
-
+/*llamar por clase o id */
+.color{background-color: blanchedalmond;}
+#perfil{color: rgb(231, 16, 16);}
